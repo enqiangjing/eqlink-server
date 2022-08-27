@@ -2,9 +2,9 @@
 基于eqlink，注册中心服务示例。
 
 ## 服务启动
-``shell
+```shell script
 python application.py [env=dev] [port=7800]
-``
+```
 
 ## 免责声明
 * 本项目所有内容仅供参考和学习交流使用。
