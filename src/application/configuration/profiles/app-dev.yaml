@@ -1,0 +1,5 @@
+link_server:
+  port: 7800
+  buf_size: 102400
+  backlog: 10
+  host: 0.0.0.0
