@@ -3,7 +3,12 @@
 
 ## 服务启动
 ```shell script
-python application.py [env=dev] [port=7800]
+# 直接启动：会根据 app.yaml 中 app.env 判断运行环境
+python application.py
+# 指定运行环境
+python application.py env=dev
+# 指定运行端口
+python application.py port=7800
 ```
 
 ## 免责声明
