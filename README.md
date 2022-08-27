@@ -2,7 +2,7 @@
 基于eqlink，注册中心服务示例。
 
 ## 服务启动
-```shell
+```shell script
 # 直接启动：会根据 app.yaml 中 app.env 判断运行环境
 python application.py
 # 指定运行环境
